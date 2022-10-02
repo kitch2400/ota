@@ -1,1 +1,17 @@
-#
+{
+  "error": false,
+  "maintainers": [
+    {
+      "main_maintainer": true,
+      "github_username": "kitch2400"
+    }
+  ],
+  "news_url": "https://forum.xda-developers.com/t/rom-13-lineageos-20-0-unofficial-oneplus-6-6t.4494053/",
+  "datetime": BUILDDATE_UNIXTIME,
+  "filename": "LineageOS-20-DATE-OTA-enchilada.zip",
+  "id": "randomidgoeshere?",
+  "romtype": "UNOFFICIAL",
+  "size": OTA_package_in_bytes,
+  "url": "https://sourceforge.net/projects/lineageos-20-enchilada/files/LineageOS%2020%20enchilada/ota/PixelExperience_enchilada-12.1-20220814-1031-UNOFFICIAL.zip/download",
+  "version": "20.0",
+}
