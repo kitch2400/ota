@@ -7,11 +7,11 @@
     }
   ],
   "news_url": "https://forum.xda-developers.com/t/rom-13-lineageos-20-0-unofficial-oneplus-6-6t.4494053/",
-  "datetime": BUILDDATE_UNIXTIME,
+  "datetime": 1664714067,
   "filename": "LineageOS-20-DATE-OTA-enchilada.zip",
-  "id": "randomidgoeshere?",
+  "id": "k889aeert81044b4pkb3lsosevx0jled",
   "romtype": "UNOFFICIAL",
-  "size": OTA_package_in_bytes,
+  "size": 823562509,
   "url": "https://sourceforge.net/projects/lineageos-20-enchilada/files/LineageOS%2020%20enchilada/lineage-20.0-20221002-UNOFFICIAL-enchilada.zip/download",
   "version": "20.0",
 }
