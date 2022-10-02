@@ -2,11 +2,11 @@
   "response": [
     {
   "datetime": 1664714067,
-  "filename": "LineageOS-20-DATE-OTA-enchilada.zip",
-  "id": "k889aeert81044b4pkb3lsosevx0jled",
+  "filename": "lineage-20.0-20221002-UNOFFICIAL-enchilada.zip",
+  "id": "mi8u20jl33ph8957ayum6atis7o3ir1r",
   "romtype": "UNOFFICIAL",
   "size": 823562509,
-  "url": "https://sourceforge.net/projects/lineageos-20-enchilada/files/LineageOS%2020%20enchilada/lineage-20.0-20221002-UNOFFICIAL-enchilada.zip/download",
+  "url": "https://sourceforge.net/projects/lineageos-20-enchilada/files/LineageOS%2020%20enchilada/ota/lineage-20.0-20221002-UNOFFICIAL-enchilada.zip/download",
   "version": "20.0"
   }
  ]
