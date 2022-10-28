@@ -1,12 +1,12 @@
 {
   "response": [
     {
-  "datetime": 1666861327,
-  "filename": "lineage-20.0-20221027-UNOFFICIAL-fajita.zip",
+  "datetime": 1666947828,
+  "filename": "lineage-20.0-20221028-UNOFFICIAL-fajita.zip",
   "id": "3p8P9JU6KGCe0IcJXTGYznqKNhOHVsLO",
   "romtype": "UNOFFICIAL",
-  "size": 1025191284,
-  "url": "https://sourceforge.net/projects/lineageos-20-enchilada/files/LineageOS%2020%20fajita/lineage-20.0-20221027-UNOFFICIAL-fajita.zip/download",
+  "size": 1025164127,
+  "url": "https://sourceforge.net/projects/lineageos-20-enchilada/files/LineageOS%2020%20fajita/lineage-20.0-20221028-UNOFFICIAL-fajita.zip/download",
   "version": "20.0"
   }
  ]
