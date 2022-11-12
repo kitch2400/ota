@@ -1,11 +1,11 @@
 {
 "response": [{
-		"datetime": 1667998645,
-		"filename": "lineage-20.0-20221109-UNOFFICIAL-enchilada.zip",
+		"datetime": 1668149477,
+		"filename": "lineage-20.0-20221111-UNOFFICIAL-enchilada.zip",
 		"id": "ZUwmQ9LpaH2RtjWKYiGol9M9l2Lclf6V",
 		"romtype": "UNOFFICIAL",
-		"size": 1231198782,
-		"url": "https://sourceforge.net/projects/lineageos-20-enchilada/files/LineageOS%2020%20enchilada/lineage-20.0-20221109-UNOFFICIAL-enchilada.zip/download",
+		"size": 1231211444,
+		"url": "https://sourceforge.net/projects/lineageos-20-enchilada/files/LineageOS%2020%20enchilada/lineage-20.0-20221111-UNOFFICIAL-enchilada.zip/download",
 		"version": "20.0"
 	}]
 }
