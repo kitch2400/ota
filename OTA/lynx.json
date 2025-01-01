@@ -1,11 +1,11 @@
 {
 "response": [{
-		"datetime": 1735730583,
+		"datetime": 1735744029,
 		"filename": "lineage-22.1-20250101-unoffical-lynx-signed.zip",
 		"id": "iqPPQ9LpaH2RtjWKYiGol9M9l2Lclf6V",
 		"romtype": "unoffical",
-		"size": 1650566023,
-		"url": "https://sourceforge.net/projects/lineageos-22-1-unofficial-lynx/files/LineageOS%2022.1%20Lynx/dummy.txt/download",
+		"size": 1650567447,
+		"url": "https://sourceforge.net/projects/lineageos-22-1-unofficial-lynx/files/LineageOS%2022.1%20Lynx/lineage-22.1-20250101-unoffical-lynx-signed.zip/download",
 		"version": "22.1"
 	}]
 }
